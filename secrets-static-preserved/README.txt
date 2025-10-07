@@ -16,7 +16,3 @@ Notes:
 - If some images/scripts are absolute URLs, they'll still load from their origin.
 - If relative assets are missing, add them into the sibling *_files directory.
 
-<!doctype html>
-<meta charset="utf-8">
-<meta http-equiv="refresh" content="0; url='Secrets%20Bangladesh%20_%20Where%20Tide%20Meets%20Memory.html'">
-<title>Redirecting…</title>
